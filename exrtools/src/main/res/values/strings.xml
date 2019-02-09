@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExrTools</string>
+    <string name="ok">OK</string>
+    <string name="back_click_twice">Click BACK twice to exit!</string>
+</resources>
